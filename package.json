@@ -1,8 +1,4 @@
-{
-  "engines": {
-    "node": ">=18"
-  }
-}
+
 {
   "name": "sentix---ai-complaint-analyst",
   "private": true,
